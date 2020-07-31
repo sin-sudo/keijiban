@@ -1,1 +1,1 @@
-web: gunicorn keijiban.wsgi
+web: gunicorn myproject.wsgi
